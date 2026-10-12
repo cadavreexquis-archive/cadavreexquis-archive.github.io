@@ -13,3 +13,8 @@ a, a:hover, a:visited, a:hover {
 .title {
 	font-style: italic;
 }
+
+.category {
+	font: size 75%;
+	font-style: italic;
+}
