@@ -5,3 +5,11 @@ body {
 	margin: 0;
 	padding: 2rem;
 }
+
+a, a:hover, a:visited, a:hover {
+	color:blue;
+}
+
+.title {
+	font-style: italic;
+}
