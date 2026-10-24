@@ -18,3 +18,7 @@ a, a:hover, a:visited, a:hover {
 	font: size 75%;
 	font-style: italic;
 }
+
+.smol {
+	font: size 75%;
+}
