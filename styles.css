@@ -10,11 +10,7 @@ a, a:hover, a:visited, a:hover {
 	color:blue;
 }
 
-.title {
-	font-style: italic;
-}
-
-.category {
+.italic {
 	font-style: italic;
 }
 
