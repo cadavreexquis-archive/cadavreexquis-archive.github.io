@@ -17,3 +17,7 @@ a, a:hover, a:visited, a:hover {
 .smol {
 	font: size 75%;
 }
+
+#content {
+	margin-top:1rem;
+}
